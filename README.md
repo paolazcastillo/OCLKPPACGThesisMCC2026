@@ -24,7 +24,7 @@ Any commercial use or republication requires explicit written permission.
 
 
 ## Outline
-1. Heuristics_calculator.ipynb
+1. Heuristics_Calculator_Analyzer.ipynb
 2. HeuristicTailoredInstancesGenerator.ipynb #In progress
 
 ## Link to RITEC Thesis Document 
