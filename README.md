@@ -6,8 +6,6 @@ Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Co
 
 Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
-Contact: paola.azcastillo@gmail.com
-
 ## License
 This work is licensed under **[CC BY-NC-SA 4.0]**(http://creativecommons.org/licenses/by-nc-sa/4.0/) for non-commercial use.
 Any commercial use or republication requires explicit written permission.
