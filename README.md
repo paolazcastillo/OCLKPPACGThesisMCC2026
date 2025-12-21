@@ -8,9 +8,6 @@ Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
 Contact: paola.azcastillo@gmail.com
 
-## Declaration of competing interest
-**Paola A. Castillo-Gutierrez declares that she does not have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.**
-
 ## License
 This work is licensed under **[CC BY-NC-SA 4.0]**(http://creativecommons.org/licenses/by-nc-sa/4.0/) for non-commercial use.
 Any commercial use or republication requires explicit written permission.
