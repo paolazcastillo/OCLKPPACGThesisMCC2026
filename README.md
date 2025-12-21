@@ -6,6 +6,7 @@ Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
 ## CRediT authorship contribution statement
 This section is going to be updated as the work progresses. 
+
 Paola A. Castillo-Gutierrez: Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization.
 
 José C. Ortiz-Bayliss: Project administration, Supervision 
