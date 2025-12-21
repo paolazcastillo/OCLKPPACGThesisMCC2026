@@ -36,6 +36,8 @@ Any commercial use or republication requires explicit written permission.
 
 
 ## Outline
+1. OptimizedPrototype_Heuristics_calculator.ipynb
+2. HeuristicTailoredInstancesGenerator.ipynb #In progress
 
 ## Link to RITEC Thesis Document 
 
