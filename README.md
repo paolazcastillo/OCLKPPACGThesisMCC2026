@@ -4,6 +4,8 @@ Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Co
 
 Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
+Contact: paola.azcastillo@gmail.com
+
 ## CRediT authorship contribution statement
 This section is going to be updated as the work progresses. 
 
