@@ -30,7 +30,7 @@ Any commercial use or republication requires explicit written permission.
 
 ### Under the following terms:
 
-- Attribution: You must give appropriate credit and indicate if changes were made (cite full thesis) 
+- Attribution: You must give appropriate credit and indicate if changes were made
 - NonCommercial: You may not use this work for commercial purposes without explicit permission (ex.books)
 - ShareAlike: If you remix or build upon this material, you must distribute your contributions under the same CC BY-NC-SA 4.0 license
 
