@@ -8,13 +8,6 @@ Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
 Contact: paola.azcastillo@gmail.com
 
-## CRediT authorship contribution statement
-This section is going to be updated as the work progresses. 
-
-Paola A. Castillo-Gutierrez: Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization.
-
-José C. Ortiz-Bayliss: Project administration, Supervision 
-
 ## Declaration of competing interest
 **Paola A. Castillo-Gutierrez declares that she does not have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.**
 
