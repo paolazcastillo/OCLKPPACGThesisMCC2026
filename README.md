@@ -4,8 +4,18 @@ Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Co
 
 Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
+## CRediT authorship contribution statement
+This section is going to be updated as the work progresses. 
+Paola A. Castillo-Gutierrez: Writing – review & editing, Writing – original draft, Visualization, Validation, Software, Resources, Project administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization.
+
+José C. Ortiz-Bayliss: Project administration, Supervision 
+
+## Declaration of competing interest
+**Paola A. Castillo-Gutierrez declares that she does not have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.**
+
 ## License
-This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under **[CC BY-NC-SA 4.0]**(http://creativecommons.org/licenses/by-nc-sa/4.0/) for non-commercial use.
+Any commercial use or republication requires explicit written permission.
 
 ### You are free to:
 
@@ -22,5 +32,5 @@ This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/license
 
 ## Outline
 
-## Link to RITEC Thesis Document: 
+## Link to RITEC Thesis Document 
 
