@@ -7,6 +7,18 @@ Supervision: Dr. José Carlos Ortiz-Bayliss
 ## License
 This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+### You are free to:
+
+Use this code and materials for research, education, or personal projects
+Modify and adapt the implementations for your needs
+Share your modifications with others
+
+### Under the following terms:
+
+Attribution: You must give appropriate credit and indicate if changes were made
+NonCommercial: You may not use this work for commercial purposes without explicit permission
+ShareAlike: If you remix or build upon this material, you must distribute your contributions under the same CC BY-NC-SA 4.0 license
+
 
 ## Outline
 
