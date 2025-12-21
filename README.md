@@ -2,6 +2,8 @@
 
 Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Computer Science at Tecnológico de Monterrey. Includes implementation code, experimental notebooks, pseudocode documentation, images, and LaTeX source files for continual learning applied to hyperheuristics in optimization  problems.
 
+*Work in progress*
+
 Thesis Supervision: Dr. José Carlos Ortiz-Bayliss
 
 Contact: paola.azcastillo@gmail.com
