@@ -1,6 +1,6 @@
 # OCLKP-PACGThesisMCC2026
 
-Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Computer Science at Tecnológico de Monterrey. Includes implementation code, experimental notebooks, pseudocode documentation, images, and LaTeX source files for continual learning applied to hyperheuristics in the knapsack optimization  problem.
+Research materials for Paola Azeneth Castillo Gutiérrez's Master's thesis in Computer Science at Tecnológico de Monterrey. Includes implementation code, experimental prototyping notebooks, pseudocode documentation, images, and LaTeX source files for continual learning applied to hyperheuristics in the knapsack 0/1 optimization  problem.
 
 *Work in progress*
 
@@ -15,18 +15,20 @@ Any commercial use or republication requires explicit written permission.
 1. Use this code and materials for research, education, or personal projects
 2. Modify and adapt the implementations for your needs
 3. Share your modifications with others
+4. Make requests for changes/errors  
 
 ### Under the following terms:
 
 - Attribution: You must give appropriate credit and indicate if changes were made
-- NonCommercial: You may not use this work for commercial purposes without explicit permission (ex.books)
+- NonCommercial: You may not use this work for commercial purposes without explicit permission (for example books)
 - ShareAlike: If you remix or build upon this material, you must distribute your contributions under the same CC BY-NC-SA 4.0 license
 
 
 ## Outline
-1. Heuristics_Calculator_Analyzer.ipynb
-2. Exploratory_Data_Analysis.ipynb
-3. HeuristicTailoredInstancesGenerator.ipynb #In progress
+1. KP_Heuristics_Calculator_Analyzer.ipynb
+2. KP_Heuristics_Calculator_Analyzer.zip (.py files) 
+3. Exploratory_Data_Analysis.ipynb #In progress 
+4. HeuristicTailoredInstancesGenerator.ipynb #In progress
 
 ## Link to RITEC Thesis Document 
 
