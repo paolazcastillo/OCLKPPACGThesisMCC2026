@@ -58,7 +58,7 @@ pytest tests/ -v
 ## Project Structure
 
 ```
-knapsack_project/
+knapsack_heuristic_calculator_analyzer/
 ├── src/
 │   └── knapsack_heuristics/
 │       ├── __init__.py          # Package initialization
