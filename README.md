@@ -25,8 +25,8 @@ Any commercial use or republication requires explicit written permission.
 
 
 ## Outline
-1. KP_Heuristics_Calculator_Analyzer.ipynb
-2. KP_Heuristics_Calculator_Analyzer.zip (.py files) 
+1. notebook_knapsack_heuristics_calculator_analyzer.ipynb
+2. knapsack_heuristic_calculator_analyzer (Python Project) 
 3. Exploratory_Data_Analysis.ipynb #In progress 
 4. HeuristicTailoredInstancesGenerator.ipynb #In progress
 
