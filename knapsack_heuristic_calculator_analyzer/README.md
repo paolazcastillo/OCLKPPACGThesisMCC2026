@@ -19,7 +19,7 @@ A comprehensive system for evaluating greedy heuristics on 0/1 Knapsack Problem 
 
 ```bash
 # Clone or download the project
-cd knapsack_project
+cd knapsack_heuristic_calculator_analyzer
 pip install -r requirements.txt
 pip install -e .
 ```
